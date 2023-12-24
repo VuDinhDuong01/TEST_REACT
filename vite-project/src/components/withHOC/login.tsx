@@ -6,7 +6,7 @@ const Login = (props:any) => {
   const {navigate, location}= props
   console.log(navigate,location)
   return (
-    <div>login</div>
+    <div>logindfdfdfdfd</div>
   )
 }
 
